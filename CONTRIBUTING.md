@@ -1,4 +1,4 @@
-Contributing to Timicoin Core
+Contributing to Timicoin
 ============================
 
 The Timicoin Core project operates an open contributor model where anyone is
@@ -254,7 +254,7 @@ about:
 Release Policy
 --------------
 
-The project leader is the release manager for each Timicoin Core release.
+The project leader is the release manager for each Timicoin release.
 
 Copyright
 ---------
