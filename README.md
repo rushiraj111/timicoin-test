@@ -9,7 +9,7 @@ Timicoin also focuses on the efficiency and appropriate reward mechanism for the
 - Decentralized blockchain voting utilizing Masternode technology to form a DAO. The blockchain will distribute monthly treasury funds based on successful proposals submitted by the community and voted on by the DAO.
 
 More information at [timicoin.io](http://www.timicoin.io). 
-Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=4348701.500)
+Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=4348701)
 Our Reddit thread is at [Reddit](https://www.reddit.com/r/TimiHealth/)
 
 
