@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/timicoin_bg.qm</file>
+        <file alias="ca">locale/timicoin_ca.qm</file>
+        <file alias="cs">locale/timicoin_cs.qm</file>
+        <file alias="da">locale/timicoin_da.qm</file>
+        <file alias="de">locale/timicoin_de.qm</file>
+        <file alias="en">locale/timicoin_en.qm</file>
+        <file alias="en_US">locale/timicoin_en_US.qm</file>
+        <file alias="es">locale/timicoin_es.qm</file>
+        <file alias="fi">locale/timicoin_fi.qm</file>
+        <file alias="fr_FR">locale/timicoin_fr_FR.qm</file>
+        <file alias="it">locale/timicoin_it.qm</file>
+        <file alias="ja">locale/timicoin_ja.qm</file>
+        <file alias="ko_KR">locale/timicoin_ko_KR.qm</file>
+        <file alias="nl">locale/timicoin_nl.qm</file>
+        <file alias="pl">locale/timicoin_pl.qm</file>
+        <file alias="pt">locale/timicoin_pt.qm</file>
+        <file alias="pt_BR">locale/timicoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/timicoin_ro_RO.qm</file>
+        <file alias="ru">locale/timicoin_ru.qm</file>
+        <file alias="sk">locale/timicoin_sk.qm</file>
+        <file alias="sv">locale/timicoin_sv.qm</file>
+        <file alias="tr">locale/timicoin_tr.qm</file>
+        <file alias="uk">locale/timicoin_uk.qm</file>
+        <file alias="zh_CN">locale/timicoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/timicoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

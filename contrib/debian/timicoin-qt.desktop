@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Timicoin
+Comment=Timicoin P2P Cryptocurrency
+Comment[fr]=Timicoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Timicoin, eşten eşe kriptografik sanal para birimi
+Exec=timicoin-qt %u
+Terminal=false
+Type=Application
+Icon=timicoin128
+MimeType=x-scheme-handler/timicoin;
+Categories=Office;Finance;

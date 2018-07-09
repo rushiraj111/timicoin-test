@@ -1,0 +1,26 @@
+[Unit]
+Description=Timicoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=timicoin
+Group=timicoin
+
+Type=forking
+PIDFile=/var/lib/timicoind/timicoind.pid
+
+ExecStart=/usr/bin/timicoind -daemon -pid=/var/lib/timicoind/timicoind.pid \
+          -conf=/etc/timicoin/timicoin.conf -datadir=/var/lib/timicoind
+
+ExecStop=-/usr/bin/timicoin-cli -conf=/etc/timicoin/timicoin.conf \
+         -datadir=/var/lib/timicoind stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
