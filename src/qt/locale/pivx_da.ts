@@ -3189,8 +3189,8 @@ https://www.transifex.com/timicoin-project/timicoin-project-translations</transl
         <translation>DASH "core" udviklerne</translation>
     </message>
     <message>
-        <source>The Timicoin Core developers</source>
-        <translation>Timicoin "core" udviklerne</translation>
+        <source>The PIVX Core developers</source>
+        <translation>PIVX "core" udviklerne</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4163,8 +4163,8 @@ For eksempel: alertnotify=Echo %% | mail - s "Timicoin ALARM!" e-mail@administra
         <translation>Copyright (C) 2014-%i The Dash Core Developers </translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Timicoin Core Developers</source>
-        <translation>Copyright (C) 2015-%i The Timicoin Core Developers</translation>
+        <source>Copyright (C) 2015-%i The PIVX Core Developers</source>
+        <translation>Copyright (C) 2015-%i The PIVX Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

@@ -2877,8 +2877,8 @@ https://www.transifex.com/timicoin-project/timicoin-project-translations</transl
         <translation>Os desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>The Timicoin Core developers</source>
-        <translation>Os desenvolvedores do Timicoin Core</translation>
+        <source>The PIVX Core developers</source>
+        <translation>Os desenvolvedores do PIVX Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3558,8 +3558,8 @@ https://www.transifex.com/timicoin-project/timicoin-project-translations</transl
         <translation>Todos os direitos reservados (C) 2014-%i aos Desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Timicoin Core Developers</source>
-        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do Timicoin Core</translation>
+        <source>Copyright (C) 2015-%i The PIVX Core Developers</source>
+        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do PIVX Core</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

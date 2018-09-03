@@ -2377,8 +2377,8 @@ MultiSend: %1</translation>
         <translation>De Dash Core ontwikkelaars</translation>
     </message>
     <message>
-        <source>The Timicoin Core developers</source>
-        <translation>De Timicoin Core ontwikkelaars</translation>
+        <source>The PIVX Core developers</source>
+        <translation>De PIVX Core ontwikkelaars</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2802,8 +2802,8 @@ MultiSend: %1</translation>
         <translation>Copyright (C) 2014-%i The Dash Core Ontwikkelaars</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Timicoin Core Developers</source>
-        <translation>Copyright (C) 2015-%i The Timicoin Core Ontwikkelaars</translation>
+        <source>Copyright (C) 2015-%i The PIVX Core Developers</source>
+        <translation>Copyright (C) 2015-%i The PIVX Core Ontwikkelaars</translation>
     </message>
     <message>
         <source>Debugging/Testing options:</source>

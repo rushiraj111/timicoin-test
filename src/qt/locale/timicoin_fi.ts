@@ -2230,8 +2230,8 @@ Please check the address and try again.</source>
         <translation>Dash Core kehittäjät</translation>
     </message>
     <message>
-        <source>The Timicoin Core developers</source>
-        <translation>Timicoin core kehittäjät</translation>
+        <source>The PIVX Core developers</source>
+        <translation>PIVX core kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>

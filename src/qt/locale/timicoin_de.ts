@@ -3642,8 +3642,8 @@ Bitte haben Sie Geduld...</translation>
         <translation>Die Dash Core Entwickler</translation>
     </message>
     <message>
-        <source>The Timicoin Core developers</source>
-        <translation>Die Timicoin Core Entwickler</translation>
+        <source>The PIVX Core developers</source>
+        <translation>Die PIVX Core Entwickler</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4455,8 +4455,8 @@ Bitte haben Sie Geduld...</translation>
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Timicoin Core Developers</source>
-        <translation>Copyright (C) 2015-%i The Timicoin Core Developers</translation>
+        <source>Copyright (C) 2015-%i The PIVX Core Developers</source>
+        <translation>Copyright (C) 2015-%i The PIVX Core Developers</translation>
     </message>
     <message>
         <source>Error</source>

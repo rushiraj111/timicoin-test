@@ -3198,8 +3198,8 @@ https://www.transifex.com/timicoin-project/timicoin-project-translations</transl
         <translation>Dash Core 개발자</translation>
     </message>
     <message>
-        <source>The Timicoin Core developers</source>
-        <translation>Timicoin Core 개발자</translation>
+        <source>The PIVX Core developers</source>
+        <translation>PIVX Core 개발자</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4172,8 +4172,8 @@ rpcpassword=%s
         <translation>Copyright (C) 2014-%i The Dash Core 개발자들</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Timicoin Core Developers</source>
-        <translation>Copyright (C) 2015-%i The Timicoin Core 개발자</translation>
+        <source>Copyright (C) 2015-%i The PIVX Core Developers</source>
+        <translation>Copyright (C) 2015-%i The PIVX Core 개발자</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
